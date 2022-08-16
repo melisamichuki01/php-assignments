@@ -42,7 +42,19 @@
 // if a value greater than 500000  is entered 
 // output that there is a  discrepancy
 
+<<<<<<< HEAD
 //
+=======
+//3. A  dating app groups users based on their age,education and wealth
+// for one to be a gold member they must be over 40 or have a masters degree or  
+//have a wealth of over $10000000
+// for silver members they must be over 30 or have a masters degree or 
+//have a wealth of over $5000000
+// for bronze members they must be over 20 or have a masters degree or
+//have a wealth of over $2500000
+
+
+>>>>>>> conditional statements
 
 
 
