@@ -12,6 +12,7 @@ if(isset($_POST['login'])) {
         header('location:index.php');
     } else {
         echo "Login Failed";
+        header('location:login.php)
     }
 }
 
